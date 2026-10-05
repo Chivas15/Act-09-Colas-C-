@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Act-09-Colas-C++/Act-09-Colas-C++.vcxproj" Id="84e4a23d-4703-40e9-b20c-bbb26542890b" />
+</Solution>
